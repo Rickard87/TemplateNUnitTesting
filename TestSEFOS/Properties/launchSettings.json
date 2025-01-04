@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestSEFOS": {
+      "commandName": "Project",
+      "commandLineArgs": "rickard.jansson@orebro.se27368276"
+    }
+  }
+}
